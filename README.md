@@ -14,10 +14,10 @@ I'm a follower of TDD, agile process enthusiast, and lover of SOLID. Proficient 
 
 | Project       | Summary       |
 | ------------- | ------------- |
+|[Tweet Mood](https://github.com/kirillzabrodin/tweet_mood)|A Django application for understanding the opinions of Londoners|
 | [Acebook](https://github.com/tomasdoh/acebook-floppy-disk)  | A two week Ruby on Rails project on making a basic facebook clone. A truly agile development process documented in the wiki and a fully tested app.  |
 | [Bank Tech Test](https://github.com/kirillzabrodin/bank_tech_test)  | A short project displaying good documentation and SRP on a basic project. Fully tested with randomised tests and full test coverage.  |
 |[Notes SPA](https://github.com/kirillzabrodin/notes-SPA)|The notes single page app is an interesting vanilla JS project that dived into understanding how React works and simulating some of its functionality. A testing framework was used to test it and it is deployed on heroku.|
-|[RSpec Creation](https://github.com/kirillzabrodin/rspec-creation)| A simple ruby testing framework created to emulate RSpec. |
 
 
 #### Hardware
